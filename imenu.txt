@@ -1,0 +1,11 @@
+List of instructions to perform certain operations:
+
+1. ctab -> creates a new tab
+2. search -> to enter search bar and search for websites
+3. dtab -> close the current tab
+4. ptab -> move to previous tab
+5. ntab -> move to next tab
+6. mback -> move back to previously opened website on current tab
+7. mfwd -> move forward to next opened website
+8. imenu -> to open this instruction manual
+9. close -> close the web browser
